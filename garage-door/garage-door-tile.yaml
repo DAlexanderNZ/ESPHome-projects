@@ -1,0 +1,10 @@
+type: tile
+entity: switch.esphome_web_d38b12_garage_door_remote
+name: Garage Door Remote
+hide_state: true
+vertical: true
+tap_action:
+  action: toggle
+icon_tap_action:
+  action: toggle
+color: primary
